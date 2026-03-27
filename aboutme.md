@@ -18,9 +18,9 @@ title: About me
     - [hypercerts](https://hypercerts.org/) (non-profit)
     - [Funding the Commons](https://fundingthecommons.io/) (PBC, conference series)
     - [The Open Impact Foundation](https://openimpact.foundation/) (for-profit)
-    - [gov4git](https://gov4git.org/) (non-profit)
+    - [gov4git](https://github.com/gov4git) (non-profit)
     - [Open Source Observer](https://www.opensource.observer/) (for-profit)
-- We accelerated [Discourse Graphs](https://discoursegraphs.ai/)
+- We accelerated [Discourse Graphs](https://discoursegraphs.com/)
 - We supported davidad during the initial proposal of the [Open Agency Architecture](https://www.lesswrong.com/posts/pKSmEkSQJsCSTK6nH/an-open-agency-architecture-for-safe-transformative-ai)
 
 ### What was PL Research:
