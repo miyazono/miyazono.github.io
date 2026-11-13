@@ -5,6 +5,8 @@ title: About me
 
 
 # My current & recent interests:
+- finding neglected society-scale AI risks and making solving each one someone's job
+  - this is what I spend most of my time on at [Atlas Ignota](https://atlasignota.org/)
 - reducing AI risk by making AI prove its outputs certain properties
   - this is what I spent most of my time on at [Atlas Computing](https://atlascomputing.org/), the predecessor organization to [Atlas Ignota](https://atlasignota.org/)
 - "revolutionary coordination systems"
@@ -17,7 +19,7 @@ title: About me
 - In 2 years, we started and spun out
     - [hypercerts](https://hypercerts.org/) (non-profit)
     - [Funding the Commons](https://fundingthecommons.io/) (PBC, conference series)
-    - [The Open Impact Foundation](https://openimpact.foundation/) (for-profit)
+    - [The Open Impact Foundation](https://openimpact.foundation/) (non-profit)
     - [gov4git](https://github.com/gov4git) (non-profit)
     - [Open Source Observer](https://www.opensource.observer/) (for-profit)
 - We accelerated [Discourse Graphs](https://discoursegraphs.com/)
@@ -32,13 +34,12 @@ I started the long-term research and metascience arm of Protocol Labs and ran it
 
 ### Selected talks
 - [Oct 13, 2022 – DevCon 6 – Hypercerts for regenerative cryptoeconomics (30 min)](https://www.youtube.com/watch?v=YpIQoq_bfu8)
-  - In which I present [Hypercerts](https://hypercerts.org/) and motivate retrospective funding for public good ([slides](https://docs.google.com/presentation/d/1pV_zvJ3UcLFWj29nrEXdMS1Dt3RLmHzgcGgOAqt7_c0/))
+  - In which I present [Hypercerts](https://hypercerts.org/) and motivate retrospective funding for public good
 - [Feb 12, 2022 – DeSci at Eth Denver – How to self-assemble an atomic bomb project (15 min)](https://youtu.be/s3t4NxP-pFk?t=3516)
   - In which I provide context on the field of metascience to people from crypto and the Decentralized Science (DeSci) movement. ([slides](https://docs.google.com/presentation/d/1N65MNlIoH_MZLdlmn9dVhf9nmiyPbDZ6/edit#slide=id.p1))
 - [June 23, 2023 – Summer of Protocols – Putting protocols into practice](https://www.youtube.com/watch?v=i--HcD5Zx-A)
   - In which I talk about Filecoin (and FIL+), the projects of the Network Goods, and the open agency architecture, not as products, but as protocols.
-  - [slides](https://docs.google.com/presentation/d/1eX0d3uCb9czDW7r0lf5xPGcYXebfiRL-TAC9cpXGvcY)
-- Nov 11, 2022 – Santa Fe Institute – Emergently Engineered Economic Experiments [transcript](https://www.santafe.edu/transcripts/950)
+- Nov 11, 2022 – Santa Fe Institute – Emergently Engineered Economic Experiments
   - In which I present Filecoin (and FIL+), SourceCred, and Hypercerts as emergent economic experiments ([slides](https://docs.google.com/presentation/d/1ESHg5TZhVzUL7E-9kFf22d7HCQJgLmsOLVsJC71iCCg))
 
 {::comment}
