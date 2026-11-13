@@ -6,7 +6,7 @@ title: About me
 
 # My current & recent interests:
 - reducing AI risk by making AI prove its outputs certain properties
-  - this is what I spend most of my time on at [Atlas Computing](https://atlascomputing.org/)
+  - this is what I spent most of my time on at [Atlas Computing](https://atlascomputing.org/), the predecessor organization to [Atlas Ignota](https://atlasignota.org/)
 - "revolutionary coordination systems"
   - This was the focus of Network Goods, the venture studio I ran at Protocol Labs
   - We thought about the overlap of mechanism design, social choice theory, and metascience
@@ -25,8 +25,8 @@ title: About me
 
 ### What was PL Research:
 I started the long-term research and metascience arm of Protocol Labs and ran it for ~5 years, which included 
-  - creating the [PL Research RFP program](https://protocol.ai/blog/ann-research-rfp/), advancing the cutting edge of networking, distributed systems, and cryptography research with $5M in grants to academic researchers. Also, hiring and managing a 3-person team to run the program.
-  - leading a team of up to 5 independent researchers nicknamed [the AbstractionLab](https://grants.protocol.ai/groups/abstractionlab/)
+  - creating the [PL Research RFP program](https://pl.xyz/blog/ann-research-rfp/), advancing the cutting edge of networking, distributed systems, and cryptography research with $5M in grants to academic researchers. Also, hiring and managing a 3-person team to run the program.
+  - leading a team of up to 5 independent researchers nicknamed [the AbstractionLab](https://research.protocol.ai/groups/abstractionlab/)
   - supporting Nadia Eghbal's research and creation of [Working in Public](https://press.stripe.com/working-in-public)
 
 
@@ -39,7 +39,7 @@ I started the long-term research and metascience arm of Protocol Labs and ran it
   - In which I talk about Filecoin (and FIL+), the projects of the Network Goods, and the open agency architecture, not as products, but as protocols.
   - [slides](https://docs.google.com/presentation/d/1eX0d3uCb9czDW7r0lf5xPGcYXebfiRL-TAC9cpXGvcY)
 - Nov 11, 2022 – Santa Fe Institute – Emergently Engineered Economic Experiments [transcript](https://www.santafe.edu/transcripts/950)
-  - In which I present Filecoin (and FIL+), SourceCred, and Hypercerts as emergent economic experiments([slides](https://docs.google.com/presentation/d/1ESHg5TZhVzUL7E-9kFf22d7HCQJgLmsOLVsJC71iCCg))
+  - In which I present Filecoin (and FIL+), SourceCred, and Hypercerts as emergent economic experiments ([slides](https://docs.google.com/presentation/d/1ESHg5TZhVzUL7E-9kFf22d7HCQJgLmsOLVsJC71iCCg))
 
 {::comment}
 maybe also include
@@ -56,23 +56,23 @@ NG summary + bogota open: https://www.youtube.com/watch?v=RUq92g1Lpbc
 
 ### Published writings
 - See my [Google Scholar profile](https://scholar.google.com/citations?user=3JFKiuAAAAAJ) for a fairly comprehensive list of my academic writings.
-- I also frequently reference [this blogpost](https://research.protocol.ai/blog/2020/sourcecred-an-introduction-to-calculating-cred-and-grain/) I wrote about [the SourceCred project](https://sourcecred.io/)'s method of providing algorithmic impact measurment of open source software in an effort to create permissionless employment.
+- I also frequently reference [this blogpost](https://research.protocol.ai/blog/2020/sourcecred-an-introduction-to-calculating-cred-and-grain/) I wrote about [the SourceCred project](https://sourcecred.io/)'s method of providing algorithmic impact measurement of open source software in an effort to create permissionless employment.
 - I think [this blogpost](https://research.protocol.ai/blog/2023/discourse-graphs-and-the-future-of-science/) is still a pretty comprehensive summary of why we need Discourse Graphs as a micropublication standard for immediately and continuously open science.
 - And I feel like [this list of questions](https://quantumfrontiers.com/2014/05/25/top-10-questions-for-your-potential-phd-advisergroup/) (for new grad students picking a group) have stood up pretty well since I was a grad student.
 
  
 ### Little things
-Real-world backlinks from people or insitutions I deeply respect (roughly chronologically)
+Real-world backlinks from people or institutions I deeply respect (roughly chronologically)
 - I've gotten multiple shout-outs from 3blue1brown (am I a hand model?)
 - I've been thanked in multiple pieces by Michael Nielsen
 - Vitalik has publicly name-checked two projects started on my team (hypercerts and Open Agency Architecture)
 - I've organized [a metascience workshop](https://www.santafe.edu/events/accelerating-science-risks-incentives-and-rewards) at the Santa Fe Institute
-- Andrew Critch and davidad jointly suggested I start what is now Atlas Computing
+- Andrew Critch and davidad jointly suggested I start what became Atlas Computing
 
 
 ### Contact
-If you want to talk about something related to Atlas Computing, use [the contact link](https://forms.gle/QApy1MRqqfNcprag6) or [email](mailto:hello@atlascomputing.org) on the atlas website (I'm on the other end of it).
+If you want to talk about something related to Atlas Ignota, use [the contact page](https://atlasignota.org/contact) or [email](mailto:hello@atlasignota.org) on the atlas website.
 
 If you want to talk about something NOT related to my current job, email me at \[first name\].\[second half of last name\]@gmail.com but note that it might take me a while to respond.
 
-I'm also probably more responsive to LinkedIn messages and twitter DMs than email thanks to [beeper](http://beeper.com/), but I tend not to accept LinkedIn connections that don't have a message unless we've met.
+I'm also probably more responsive to LinkedIn messages and twitter DMs than email thanks to [beeper](https://www.beeper.com/), but I tend not to accept LinkedIn connections that don't have a message unless we've met.
