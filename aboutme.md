@@ -39,7 +39,7 @@ I started the long-term research and metascience arm of Protocol Labs and ran it
   - In which I provide context on the field of metascience to people from crypto and the Decentralized Science (DeSci) movement. ([slides](https://docs.google.com/presentation/d/1N65MNlIoH_MZLdlmn9dVhf9nmiyPbDZ6/edit#slide=id.p1))
 - [June 23, 2023 – Summer of Protocols – Putting protocols into practice](https://www.youtube.com/watch?v=i--HcD5Zx-A)
   - In which I talk about Filecoin (and FIL+), the projects of the Network Goods, and the open agency architecture, not as products, but as protocols.
-- Nov 11, 2022 – Santa Fe Institute – Emergently Engineered Economic Experiments
+- Nov 4, 2022 – Santa Fe Institute – Emergently Engineered Economic Experiments
   - In which I present Filecoin (and FIL+), SourceCred, and Hypercerts as emergent economic experiments ([slides](https://docs.google.com/presentation/d/1ESHg5TZhVzUL7E-9kFf22d7HCQJgLmsOLVsJC71iCCg))
 
 {::comment}
